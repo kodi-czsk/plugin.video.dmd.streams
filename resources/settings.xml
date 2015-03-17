@@ -1,0 +1,7 @@
+<settings>
+   <setting id="community_list" type="bool" label="Aktualizovat z dmd-xbmc" default="true"/>
+   <setting id="save_location" type="folder"  label="Vyber složku s playlisty." default="/storage/.xbmc/addons/plugin.video.dmd.streams/" enable="eq(-1,true)"/>
+   <setting id="xml_file" type="file"  source="files" label="Vyber soubor" default="/storage/.xbmc/addons/plugin.video.dmd.streams/dmd_streams.xml" />
+   <setting id="mirror_link" type="bool" label="Použít záložní link pokud existuje" default="false"/>
+   <setting id="mirror_link_low" type="bool" label="Použít druhý záložní link" default="false" enable="eq(-1,false)"/> 
+</settings>

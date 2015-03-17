@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.dmd.streams" name="DMD Streams" version="0.0.6" provider-name="DMD">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.beautifulsoup" version="3.0.8" />
+	<import addon="script.module.dmd-czech.common" version="1.5.5"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>DMD streams.</summary>
+    <description>Upravený plugin LiveStreams 0.0.7 pro přehrávání dmd-xbmc playlistu streamů pro České a Slovenské uživatele xbmc. Po první instalaci otevřete nastavení doplňku a zkontrolujte cesty, jsou přednastaveny pro OpenELEC.tv, pokud máte nainstalovanou jinou distribuci, opravte je.</description>
+    <platform>all</platform>
+    <source>https://github.com/kodi-czsk/plugin.video.dmd.streams</source>
+  </extension>
+</addon>

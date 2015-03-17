@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+    <channel>
+        <name>Czech TV</name>
+        <thumbnail>http://flagspictures.org/photo/icons/normal/300/the_Czech_Republic.png</thumbnail>
+        <items>
+
+<item>
+<title>CT1</title>
+<link>http://212.79.96.134:8001</link>
+<link>http://88.212.35.226:2003</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/ceska_televize1.jpg</thumbnail>
+</item>
+
+<item>
+<title>CT2</title>
+<link>http://212.79.96.134:8002</link>
+<link>http://88.212.35.226:2001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/ceska_televize2.jpg</thumbnail>
+</item>
+
+<item>
+<title>nova</title>
+<link>http://212.79.96.134:8003</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nova_tv_cz.jpg</thumbnail>
+</item>
+
+<item>
+<title>Prima</title>
+<link>http://212.79.96.134:8004</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/prima_tv_cz.jpg</thumbnail>
+</item>
+
+<item>
+<title>nova Cinema</title>
+<link>http://212.79.96.134:8020</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nova_cinema.jpg</thumbnail>
+</item>
+
+<item>
+<title>Prima COOL</title>
+<link>http://212.79.96.134:8021</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/prima_cool.jpg</thumbnail>
+</item>
+
+<item>
+<title>Prima LOVE</title>
+<link>http://212.79.96.134:8019</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/prima_love_cz.jpg</thumbnail>
+</item>
+
+<item>
+<title>Barrandov</title>
+<link>http://212.79.96.134:8022</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/barrandov_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>CT24</title>
+<link>http://212.79.96.134:8015</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/ceska_televize24.jpg</thumbnail>
+</item>
+
+<item>
+<title>Public</title>
+<link>http://212.79.96.134:8018</link>
+<thumbnail>http://i.iinfo.cz/urs/public_logo_white_slogan_BOX-127053353769812.png</thumbnail>
+</item>
+
+	</items>
+    </channel>
+
+    <channel>
+        <name>Slovak TV</name>
+        <thumbnail>http://flagspictures.org/wp-content/uploads/2010/06/SlovakiaCountryIconPng.png</thumbnail>
+        <items>
+
+<item>
+<title>STV1</title>
+<link>http://88.212.35.222:2001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/stv_jednotka.jpg</thumbnail>
+</item>
+
+<item>
+<title>STV2</title>
+<link>http://88.212.35.223:2001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/stv_dvojka.jpg</thumbnail>
+</item>
+
+<item>
+<title>Markiza</title>
+<link>http://88.212.35.223:2002</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/markiza.jpg</thumbnail>
+</item>
+
+<item>
+<title>JOJ</title>
+<link>http://88.212.35.226:2002</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/joj_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>JOJ Plus</title>
+<link>http://88.212.35.228:2002</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/jj/joj_plus.jpg</thumbnail>
+</item>
+
+<item>
+<title>TA3</title>
+<link>http://88.212.35.224:2002</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/ta3_sk.jpg</thumbnail>
+</item>
+
+<item>
+<title>Doma</title>
+<link>http://88.212.35.227:2002</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/doma_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV Region</title>
+<link>http://88.212.35.227:2001</link>
+<thumbnail>http://www.regiontv.eu/upload/495-1243880597_6SQVxt2ndf.upl-spravy.jpg</thumbnail>
+</item>
+	</items>
+    </channel>
+
+    <channel>
+        <name>Music TV</name>
+        <thumbnail>http://ravenatic.co.uk/wp-content/uploads/2011/07/autojonas-rask-itunes-icon.png</thumbnail>
+        <items>
+
+<item>
+<title>Ocko</title>
+<link>http://212.79.96.134:8016</link>
+<link>http://88.212.35.228:2001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/ocko.jpg</thumbnail>
+</item>
+
+<item>
+<title>MusicBox</title>
+<link>http://212.79.96.134:8006</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/musicbox_sk.jpg</thumbnail>
+</item>
+
+<item>
+<title>Musiq 1</title>
+<link>http://212.79.96.134:8005</link>
+<link>http://88.212.35.225:2001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/musiq1.jpg</thumbnail>
+</item>
+
+<item>
+<title>VH1 Classic</title>
+<link>http://212.79.96.134:8024</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vh1_classic_europe.jpg</thumbnail>
+</item>
+
+<item>
+<title>VIVA</title>
+<link>http://212.79.96.134:8007</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viva_de.jpg</thumbnail>
+</item>
+
+	</items>
+    </channel>
+
+    <channel>
+        <name>Sport TV</name>
+        <thumbnail>http://www.sport9.cz/fotky4504/fotos/_vyr_94531001424.png</thumbnail>
+        <items>
+
+<item>
+<title>CT4</title>
+<link>http://212.79.96.134:8014</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/ceska_televize4.jpg</thumbnail>
+</item>
+
+<item>
+<title>nova Sport</title>
+<link>http://212.79.96.134:8023</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nova_sport_cz.jpg</thumbnail>
+</item>
+
+<item>
+<title>STV3</title>
+<link>http://88.212.35.224:2001</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/stv_trojka.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sport 1</title>
+<link>http://88.212.35.225:2002</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sport1.jpg</thumbnail>
+</item>
+
+<item>
+<title>EuroSPORT 2</title>
+<link>http://212.79.96.134:8012</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport2_ne.jpg</thumbnail>
+</item>
+
+	</items>
+    </channel>
+        
+    <channel>
+        <name>Other TV</name>
+        <thumbnail>http://www.jorymon.com/images/2009/march/computer_system_icon10.png</thumbnail>
+        <items>
+
+<item>
+<title>Disney Channel</title>
+<link>http://88.212.35.222:2002</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_channel_ru.jpg</thumbnail>
+</item>
+
+<item>
+<title>RTL</title>
+<link>http://212.79.96.134:8008</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rtl.jpg</thumbnail>
+</item>
+
+<item>
+<title>Pro 7</title>
+<link>http://212.79.96.134:8009</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/prosieben.jpg</thumbnail>
+</item>
+
+<item>
+<title>SAT 1</title>
+<link>http://212.79.96.134:8010</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sat1_austria.jpg</thumbnail>
+</item>
+
+<item>
+<title>BBC World News</title>
+<link>http://212.79.96.134:8011</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bbc_world_news.jpg</thumbnail>
+</item>
+
+<item>
+<title>EuroNews</title>
+<link>http://212.79.96.134:8013</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/euronews.jpg</thumbnail>
+</item>
+
+
+	</items>
+    </channel>
+
+</channels>
